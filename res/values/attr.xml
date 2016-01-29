@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>
+    <!-- <attr name="firstColor" format="color"></attr>
+    <attr name="secondColor" format="color"></attr>
+    <attr name="circleWidth" format="dimension"></attr>
+    <attr name="speed" format="integer" />
+    <declare-styleable name="CustomProgressBar">
+        <attr name="firstColor"></attr>
+    	<attr name="secondColor"></attr>
+    	<attr name="circleWidth"></attr>
+    	<attr name="speed" />
+    </declare-styleable> -->
+    
+    <attr name="linkColor" format="color"></attr>
+    <attr name="linkWidth" format="dimension"></attr>
+    <attr name="startX"></attr>
+   	<attr name="startY"></attr>
+   	<attr name="endX"></attr>
+   	<attr name="endY"></attr>
+    <declare-styleable name="linkAttr">
+        <attr name="linkColor"></attr>
+    	<attr name="linkWidth"></attr>
+    	<attr name="startX"></attr>
+    	<attr name="startY"></attr>
+    	<attr name="endX"></attr>
+    	<attr name="endY"></attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" xmlns:app="http://schemas.android.com/apk/res/com.example.articledetails">
+
+    <com.example.articledetails.CustomProgressBar 
+        android:id="@+id/link"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:linkColor = "#666666"
+        app:linkWidth="20dp"
+        app:startX="100dp"
+        app:startY="200dp"/>
+
+</RelativeLayout>
